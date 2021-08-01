@@ -3,7 +3,7 @@
 # Walletwand
 This is an expenditure manager app I've developed using React Native (Expo) and Typescript. In this app you can record your new expenditures category wise and also
 add the date on which the transaction took place. You can modify it later on and if you wish to remove a partiuclar expense you can do that as well. The app also shows analytics in the form of a piechart
-based on the expenses categorically. The app is currently only available for android devices only.
+based on the expenses categorically. The app is currently only available for android devices only. I tried my best to clean code and comment whenever it was necessary so that a new user can get started really easily.
 
 ## Libraries Used:
 ```
