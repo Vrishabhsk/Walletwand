@@ -41,3 +41,6 @@ npm install
 expo start
 ```
 After running this line you will be prompted with options and you can choose the one suited to your need.
+
+## Download:
+You can download this app on [google play store](https://play.google.com/store/apps/details?id=walletwand.apk)
